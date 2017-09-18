@@ -1,0 +1,58 @@
+[
+{
+	"imgSrc" : "product1",
+	"productTitle" : "Ženska majica",
+	"model" : "Cosmos",
+	"price" : "3.500",
+	"colors" : ["purple","green","red"]
+},
+{
+	"imgSrc" : "product2",
+	"productTitle" : "Muška majica",
+	"model" : "Legendary",
+	"price" : "4.500",
+	"colors" : ["purple","green","red"]
+},
+{
+	"imgSrc" : "product3",
+	"productTitle" : "Ženska haljina",
+	"model" : "X style",
+	"price" : "6.000",
+	"colors" : ["purple","green","red"]
+},
+{
+	"imgSrc" : "product4",
+	"productTitle" : "Muški kaput",
+	"model" : "Frogster",
+	"price" : "12.500",
+	"colors" : ["purple","green","red"]
+},
+{
+	"imgSrc" : "product5",
+	"productTitle" : "Ženska haljina",
+	"model" : "X style",
+	"price" : "6.500",
+	"colors" : ["purple","green","red"]
+},
+{
+	"imgSrc" : "product6",
+	"productTitle" : "Ženska majica",
+	"model" : "V style",
+	"price" : "4.500",
+	"colors" : ["purple","green","red"]
+},
+{
+	"imgSrc" : "product6",
+	"productTitle" : "Ženska majica",
+	"model" : "Cosmos",
+	"price" : "5.500",
+	"colors" : ["purple","green","red"]
+},
+{
+	"imgSrc" : "product7",
+	"productTitle" : "Ženski prsluk",
+	"model" : "North west",
+	"price" : "4.880",
+	"colors" : ["purple","green","red"]
+}
+]
