@@ -18,7 +18,7 @@
 },
 {
 	"imgSrc" : "product2",
-	"productTitle" : "Ženska haljina",
+	"productTitle" : "Ženski duks",
 	"model" : "X style",
 	"price" : "6.000",
 	"colors" : ["purple","green","red"],
@@ -27,16 +27,16 @@
 },
 {
 	"imgSrc" : "product13",
-	"productTitle" : "Muški kaput",
+	"productTitle" : "Muški duks",
 	"model" : "Frogster",
-	"price" : "12.500",
+	"price" : "4.500",
 	"colors" : ["purple","green","red"],
 	"colection" : "male"
 
 },
 {
 	"imgSrc" : "product3",
-	"productTitle" : "Ženska haljina",
+	"productTitle" : "Ženski dzemper",
 	"model" : "X style",
 	"price" : "6.500",
 	"colors" : ["purple","green","red"],
@@ -45,16 +45,16 @@
 },
 {
 	"imgSrc" : "product14",
-	"productTitle" : "Muška majica",
+	"productTitle" : "Muška jakna",
 	"model" : "V style",
-	"price" : "4.500",
+	"price" : "12.000",
 	"colors" : ["purple","green","red"],
 	"colection" : "male"
 
 },
 {
 	"imgSrc" : "product4",
-	"productTitle" : "Ženska majica",
+	"productTitle" : "Ženska bluza",
 	"model" : "Cosmos",
 	"price" : "5.500",
 	"colors" : ["purple","green","red"],
@@ -63,7 +63,7 @@
 },
 {
 	"imgSrc" : "product15",
-	"productTitle" : "Muški prsluk",
+	"productTitle" : "Muški duks",
 	"model" : "North west",
 	"price" : "4.880",
 	"colors" : ["purple","green","red"],
@@ -72,7 +72,7 @@
 },
 {
 	"imgSrc" : "product5",
-	"productTitle" : "Ženske pantalone",
+	"productTitle" : "Ženska bluza",
 	"model" : "North west",
 	"price" : "11.880",
 	"colors" : ["purple","green","red"],
@@ -81,7 +81,7 @@
 },
 {
 	"imgSrc" : "product16",
-	"productTitle" : "Muška majica",
+	"productTitle" : "Muški prsluk",
 	"model" : "North west",
 	"price" : "4.880",
 	"colors" : ["purple","green","red"],
@@ -90,7 +90,7 @@
 },
 {
 	"imgSrc" : "product6",
-	"productTitle" : "Ženski prsluk",
+	"productTitle" : "Ženska bluza",
 	"model" : "North west",
 	"price" : "4.280",
 	"colors" : ["purple","green","red"],
@@ -99,16 +99,16 @@
 },
 {
 	"imgSrc" : "product7",
-	"productTitle" : "Ženska majica",
+	"productTitle" : "Ženski duks",
 	"model" : "North west",
-	"price" : "4.880",
+	"price" : "5.880",
 	"colors" : ["purple","green","red"],
 	"colection" : "female"
 
 },
 {
 	"imgSrc" : "product8",
-	"productTitle" : "Ženski prsluk",
+	"productTitle" : "Ženska majica",
 	"model" : "North west",
 	"price" : "8.880",
 	"colors" : ["purple","green","red"],
@@ -117,7 +117,7 @@
 },
 {
 	"imgSrc" : "product9",
-	"productTitle" : "Ženski majica",
+	"productTitle" : "Ženska majica",
 	"model" : "North west",
 	"price" : "1.990",
 	"colors" : ["purple","green","red"],
@@ -126,7 +126,7 @@
 },
 {
 	"imgSrc" : "product10",
-	"productTitle" : "Ženski prsluk",
+	"productTitle" : "Ženska bluza",
 	"model" : "North west",
 	"price" : "4.880",
 	"colors" : ["purple","green","red"],
@@ -135,7 +135,7 @@
 },
 {
 	"imgSrc" : "product11",
-	"productTitle" : "Ženski majica",
+	"productTitle" : "Ženska kosulja",
 	"model" : "North west",
 	"price" : "2.100",
 	"colors" : ["purple","green","red"],
